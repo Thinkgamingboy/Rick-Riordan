@@ -1,0 +1,76 @@
+body{
+    text-align: center;
+    margin: 0px;
+    padding-top: 600px;
+}
+
+.img1{
+    border-radius: 50%;
+    width: 250px;
+}
+
+#sec1{
+    position: absolute;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    display: table;
+    background: linear-gradient(greenyellow 20%, aqua 80%) ;
+}
+
+h1{
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 300;
+}
+
+#rickrolled{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3{
+    font-size: 30;
+    font-weight: 300;
+    font-family: 'Comforter', cursive;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Patrick Hand', cursive;
+}
+
+#sec2{
+    padding: 180px;
+    font-family: cursive;
+}
+.underline{
+    background-color: black;
+    height: 5px;
+    width: 70px;
+    margin: 8px auto;
+}
+.parallax-inner{
+    display: table-cell;
+    vertical-align: middle;
+}
+br{
+    size: 5px;
+}
+
+.menu{
+    position: absolute;
+    z-index: 10;
+    top: 10px;
+    list-style: none;
+    cursor: pointer;
+    float: none;
+    left: 34%;
+}
+
+.links{
+    float: left;
+    padding: 10px;
+    font-family: 'Comforter', cursive;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 26px;
+    }
+
